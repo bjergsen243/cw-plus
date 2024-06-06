@@ -1,0 +1,9 @@
+{
+    "burn": {
+        "coin": {
+            "amount": "10000",
+            "denom": "tf/nibi1ty88gpudfh57kqghy62hw8k4nt7765gczu2gqry5gl9ldurrzrns92scum/nubis"
+        },
+        "burn_from": "nibi1tsgl9sr8ayy4s9fdf9mr2ck2tptpjy2shdj7ky"
+    }
+}
